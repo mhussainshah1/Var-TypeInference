@@ -2,7 +2,6 @@ package com.company.var;
 
 import java.io.Serializable;
 import java.util.function.Function;
-import java.util.function.Predicate;
 
 public class NonDenotable {
     public static void main(String[] args) {
